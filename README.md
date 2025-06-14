@@ -15,6 +15,11 @@ Welcome to my official CV repository. I'm a Computer Engineering student at Ista
 - 🌱 Always learning — currently exploring **cybersecurity**, **embedded systems**, and **project management**
 
 ---
+## 🙋 Why Me?
+
+I bring both technical depth and a creative spark to every project I work on. I'm not just building software — I'm crafting experiences, solving problems, and continuously learning to improve what I create.
+
+---
 
 ## 💼 Notable Projects
 
