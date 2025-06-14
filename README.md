@@ -36,6 +36,13 @@ Developed a custom scheduler with multi-threading for embedded systems in a real
 Designed a scalable e-commerce backend architecture with CI/CD pipeline integration.
 
 ---
+## 📂 Projects
+
+- [Real-Time Face Recognition System](projects/face-recognition.md)
+- [RTOS Thread Scheduler on ARM Cortex-M](projects/rtos-scheduler.md)
+- [Distributed E-Commerce Platform](projects/ecommerce-platform.md)
+
+---
 
 ## 📜 Certifications
 
