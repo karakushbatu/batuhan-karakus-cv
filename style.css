@@ -53,10 +53,9 @@ ul {
   padding-left: 1.5rem;
 }
 
-/* Button Styling */
 .button {
   display: inline-block;
-  padding: 0.8rem 1.4rem;
+  padding: 0.8rem 1.2rem;
   background-color: #007acc;
   color: white;
   font-weight: bold;
@@ -64,12 +63,26 @@ ul {
   border-radius: 8px;
   margin-top: 1rem;
   text-decoration: none;
+  white-space: nowrap; /* Metin satır atlamasın */
+  max-width: 100%; /* Mobil taşmayı engeller */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  box-sizing: border-box;
   transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 .button:hover {
   background-color: #005f99;
   transform: translateY(-2px);
+}
+
+/* Opsiyonel: Mobilde genişlik ayarı */
+@media (max-width: 600px) {
+  .button {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
 }
 
 /* Contact Info List */
