@@ -8,7 +8,7 @@ Welcome to my official CV repository. I'm a Computer Engineering student at Ista
 
 ## 🧠 About Me
 
-- 🎓 3rd-year Computer Engineering student at **Istanbul Technical University**
+- 🎓 4th-year Computer Engineering student at **Istanbul Technical University**
 - 🤖 Passionate about AI, data analysis, and game mechanics
 - 🛠️ Currently improving my C# and Unity development skills
 - 🎮 Previous experience with **Unreal Engine** projects
